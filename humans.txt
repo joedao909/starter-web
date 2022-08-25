@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pablo Ruiz Tutto pablor3@gmail.com @joedao909
 
 # THANKS
 
